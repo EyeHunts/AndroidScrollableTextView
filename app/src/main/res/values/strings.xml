@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Android Scrollable TextView</string>
+    <string name="txt">Wordpress is easy to make website without a technical knowledge person also can build the awesome websites.
+15 years ago you need to learn HTML, CSS for only static website and for dynamic  or e-commerce site need more like Javascript and database.
+Wordpress is free and open source content management system.
+It has largest community.
+You can install a Wordpress within a minute in web host.
+Wordpress main feature is plugins. Which extends a feature of website without hard work.
+Then another feature is templets (them) can change only on one click.
+Initial release date: 27 May 2003
+Written in: PHP
+Stable and current version : 5.0.5 (19-Dec-2018)
+Top websites in Wordpress : Sony Music, CNN, starwars.com, news.microsoft.com, techcrunch.com.
+
+Introduction
+
+Who used a Wordpress ?
+
+Wordpress site has written in more then 120 languages and
+every day 10 thousand site created.
+
+Why Use a Wordpress?
+
+Its a Free and open source
+You will get a admin panel an editor
+A very powerful
+Largest community
+Can use and handle different media like images, video, gif etc.
+Its a search engine friendly (SEO) google like it because it done work for SEO almost 90-95%.
+Wordpress easy to manage your site
+It’s secure - Need some setup
+Can create any type of website with Wordpress.
+You can also create responsive and mobile friendly site - Based on theme used
+You have to just setup one time as technical aspect
+
+
+
+How to setup
+
+You can install Wordpress on Computer or WebHost
+WebHost - For if you want a available website to other (Online)
+LocalHost - On your computer if you want learn Wordpress and don’t want invest money in Hosting.
+Get the domain name
+Install the Wordpress
+</string>
+</resources>
